@@ -6,7 +6,7 @@ As a data analyst, I possess a unique blend of skills in both data analysis and 
 ## About Me:
 My journey in the professional world began with a Bachelor of Technology in Aeronautical Engineering from Calicut University, which laid the foundation for my career as an aerospace technical writer. Over time, I transitioned into senior technical writing roles, contributing to the development of various hardware and software products.
 
-However, my passion for data analysis was ignited during an online data science course from IIT Madras. This newfound interest led me to pursue additional certifications in data analysis, enabling me to integrate data-driven decision-making into my projects. Currently, I leverage my data analysis skills to manage the Trust Safety knowledge base.
+However, my passion for data analysis was ignited during an online data science course from IIT Madras. This newfound interest led me to pursue additional certifications in data analysis, enabling me to integrate data-driven decision-making into my projects. Currently, I leverage my data analysis skills to manage the Trust and Safety knowledge base.
 
 Continuing my quest for knowledge, I am currently enrolled in a Post Graduate Certificate Program in Data Science and Machine Learning at Manipal Institute of Technology, with an expected completion date in September 2024.
 
