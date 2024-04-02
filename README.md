@@ -1,13 +1,23 @@
-# My Portfolio
+# Portfolio
 
 ## Introduction:
-I am a data analyst and technical writer with a passion for transforming complex information into clear, actionable insights.  I excel at unraveling intricate datasets and translating them into user-friendly documentation.  My background in both technical writing and data analysis allows me to bridge the gap between data and comprehension, ensuring effective communication across all levels.
+As a data analyst, I possess a unique blend of skills in both data analysis and technical writing, allowing me to decipher complex datasets and present actionable insights in a clear and understandable manner. My expertise lies in bridging the gap between raw data and effective communication, ensuring that insights are accessible and comprehensible across diverse audiences.
 
 ## About Me:
-My professional journey commenced with a Bachelor of Technology in Aeronautical Engineering from Calicut University, which propelled me into a career as an aerospace technical writer. Over time, I transitioned into roles as a senior technical writer, contributing to various hardware and software products.
+My journey in the professional world began with a Bachelor of Technology in Aeronautical Engineering from Calicut University, which laid the foundation for my career as an aerospace technical writer. Over time, I transitioned into senior technical writing roles, contributing to the development of various hardware and software products.
 
-However, my venture into the realm of data analysis commenced with a newfound passion sparked during an online data science course from IIT Madras. This burgeoning interest motivated me to pursue various online certifications and enabled me to engage in data analysis within my projects, facilitating data-driven decision-making on the Trust Safety knowledge base that I currently manage.
+However, my passion for data analysis was ignited during an online data science course from IIT Madras. This newfound interest led me to pursue additional certifications in data analysis, enabling me to integrate data-driven decision-making into my projects. Currently, I leverage my data analysis skills to manage the Trust Safety knowledge base.
 
-Presently, I am further enhancing my skill set by pursuing a Post Graduate Certificate Program in Data Science and Machine Learning at Manipal Institute of Technology, with an anticipated completion date in September 2024.
+Continuing my quest for knowledge, I am currently enrolled in a Post Graduate Certificate Program in Data Science and Machine Learning at Manipal Institute of Technology, with an expected completion date in September 2024.
 
-## PortFolio Projects
+# Portfolio Projects
+---
+## Online Retail Store: Exploratory Data Analysis with Python
+#### Description: This project delves into the operations of an online retail store. By analyzing actual sales data, we aim to assist the store in improving its business strategies.
+#### Tools: Python with libraries including Pandas, NumPy, Matplotlib, and Seaborn
+#### Role: Data Analyst
+#### Outcome: Provided recommendations to optimize operations, enhance customer satisfaction, and boost sales for the online retail store.
+#### Check out the [GitHub repository](https://github.com/Midhunkalavara/Online-Retail-Store) for more details.
+---
+
+
