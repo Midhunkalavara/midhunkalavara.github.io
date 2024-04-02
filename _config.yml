@@ -22,16 +22,6 @@ social:
     url: https://www.linkedin.com/in/midhunkalavara/
   # Add more social links as needed
 
-# Navigation links
-navbar_links:
-  - title: Home
-    url: /
-  - title: About
-    url: /about
-  - title: Projects
-    url: /projects
-  # Add more navigation links as needed
-
 # Pagination
 paginate: 5
 
