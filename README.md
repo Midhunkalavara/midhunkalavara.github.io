@@ -1,3 +1,5 @@
+#My Portfolio
+
 ## Introduction:
 I am a data analyst and technical writer with a passion for transforming complex information into clear, actionable insights.  I excel at unraveling intricate datasets and translating them into user-friendly documentation.  My background in both technical writing and data analysis allows me to bridge the gap between data and comprehension, ensuring effective communication across all levels.
 
