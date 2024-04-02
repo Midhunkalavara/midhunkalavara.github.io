@@ -13,11 +13,11 @@ Continuing my quest for knowledge, I am currently enrolled in a Post Graduate Ce
 # Portfolio Projects
 ---
 ## Online Retail Store: Exploratory Data Analysis with Python
-#### Description: This project delves into the operations of an online retail store. By analyzing actual sales data, we aim to assist the store in improving its business strategies.
-#### Tools: Python with libraries including Pandas, NumPy, Matplotlib, and Seaborn
-#### Role: Data Analyst
-#### Outcome: Provided recommendations to optimize operations, enhance customer satisfaction, and boost sales for the online retail store.
-#### Check out the [GitHub repository](https://github.com/Midhunkalavara/Online-Retail-Store) for more details.
+- Description: This project delves into the operations of an online retail store. By analyzing actual sales data, we aim to assist the store in improving its business strategies.
+- Tools: Python with libraries including Pandas, NumPy, Matplotlib, and Seaborn
+- Role: Data Analyst
+- Outcome: Provided recommendations to optimize operations, enhance customer satisfaction, and boost sales for the online retail store.
+#### Check out the <a href="https://github.com/Midhunkalavara/Online-Retail-Store" target="_blank">GitHub repository</a> for more details.
 ---
 
 
