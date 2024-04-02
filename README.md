@@ -14,17 +14,18 @@ Continuing my quest for knowledge, I am currently enrolled in a Post Graduate Ce
 ---
 
 ## Online Retail Store: Exploratory Data Analysis with Python
-- Description: This project delves into the operations of an online retail store. By analyzing actual sales data, we aim to assist the store in improving its business strategies.
-- Tools: Python with libraries including Pandas, NumPy, Matplotlib, and Seaborn
-- Role: Data Analyst
-- Outcome: Provided recommendations to optimize operations, enhance customer satisfaction, and boost sales for the online retail store.
+- **Description**: This project delves into the operations of an online retail store. By analyzing actual sales data, we aim to assist the store in improving its business strategies.
+- **Tools**: Python with libraries including Pandas, NumPy, Matplotlib, and Seaborn
+- **Role**: Data Analyst
+- **Outcome**: Provided recommendations to optimize operations, enhance customer satisfaction, and boost sales for the online retail store.
 
 #### Check out the <a href="https://github.com/Midhunkalavara/Online-Retail-Store" target="_blank">GitHub repository</a> for more details.
 
 ---
 ## Unveiling the Impact of Artificial Intelligence on Business Operations: A Comprehensive Exploration
-- Description: In the rapidly evolving landscape of contemporary business, Artificial Intelligence (AI) stands as a pivotal force driving transformation across various sectors. This whitepaper delves into the transformative power of AI components, particularly machine learning and natural language processing (NLP), in reshaping traditional operational paradigms.
-- Outcome: The whitepaper aims to guide organizations in leveraging AI for efficiency, innovation, and competitiveness. It emphasizes responsible AI adoption, cultural transformation, and the augmentation of human capabilities. Ultimately, it seeks to inspire a future where AI-driven growth fosters sustainability and prosperity, guided by ethical principles and collaborative leadership.
+- **Description**: In the rapidly evolving landscape of contemporary business, Artificial Intelligence (AI) stands as a pivotal force driving transformation across various sectors. This whitepaper delves into the transformative power of AI components, particularly machine learning and natural language processing (NLP), in reshaping traditional operational paradigms.
+- **Role**: Technical Writer
+- **Outcome**: The whitepaper aims to guide organizations in leveraging AI for efficiency, innovation, and competitiveness. It emphasizes responsible AI adoption, cultural transformation, and the augmentation of human capabilities. Ultimately, it seeks to inspire a future where AI-driven growth fosters sustainability and prosperity, guided by ethical principles and collaborative leadership.
 
 #### Check out the <a href="https://github.com/Midhunkalavara/The-Impact-of-Artificial-Intelligence-on-Business-Processes" target="_blank">GitHub repository</a> for more details.
 
