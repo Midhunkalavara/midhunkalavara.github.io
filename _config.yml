@@ -1,3 +1,51 @@
-title: Midhun K
-logo: assets/images/Logo.png
+# Site settings
+name: Midhun K
+description: Your portfolio description
+url: "https://midhunkalavara.github.io/" # the base hostname & protocol for your site
+
+# Build settings
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+
+# Author
+author:
+  name: Midhun k
+  email: midhunkalavara@gmail.com
+  bio: A brief description about yourself
+
+# Social links
+social:
+  - title: GitHub
+    url: https://github.com/Midhunkalavara
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/midhunkalavara/
+  # Add more social links as needed
+
+# Navigation links
+navbar_links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Projects
+    url: /projects
+  # Add more navigation links as needed
+
+# Pagination
+paginate: 5
+
+# Exclude files/folders from the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+  - LICENSE
+
+# Markdown options
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
