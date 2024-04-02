@@ -18,6 +18,7 @@ Continuing my quest for knowledge, I am currently enrolled in a Post Graduate Ce
 - Tools: Python with libraries including Pandas, NumPy, Matplotlib, and Seaborn
 - Role: Data Analyst
 - Outcome: Provided recommendations to optimize operations, enhance customer satisfaction, and boost sales for the online retail store.
+
 #### Check out the <a href="https://github.com/Midhunkalavara/Online-Retail-Store" target="_blank">GitHub repository</a> for more details.
 
 ---
