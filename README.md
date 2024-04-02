@@ -10,14 +10,14 @@ However, my passion for data analysis was ignited during an online data science 
 
 Continuing my quest for knowledge, I am currently enrolled in a Post Graduate Certificate Program in Data Science and Machine Learning at Manipal Institute of Technology, with an expected completion date in September 2024.
 
-## Skills
+## Skills:
 
 - **Data Analysis:** Python, MySQL, Excel, Power BI, Jupyter Notebook
 - **Technical Writing:** Markdown, XML, HTML, Adobe FrameMaker, Microsoft Word, Connect Composer, Google Workspace, Adobe InDesign, PTC Arbortext Editor, Adobe Illustrator
 - **Project Management Platforms:** Jira, Asana
 - **Soft Skills:** Communication, Problem-solving, Teamwork
 
-## Portfolio Projects
+## Portfolio Projects:
 ---
 
 ### Online Retail Store: Exploratory Data Analysis with Python
