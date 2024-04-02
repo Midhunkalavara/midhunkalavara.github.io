@@ -1,11 +1,11 @@
 title: Midhun K
-description: Thank you for visiting my portfolio website! Here, you'll discover information about me, explore my projects, and much more.
+description: Thank you for visiting my portfolio website! Here, you'll find information about me, explore my projects, and much more.
 logo: assets/images/Logo.png
-theme: minimal-mistakes
+theme: jekyll-theme-slate
 author:
   name: Midhun K
   email: midhunkalavara@gmail.com
-  bio: Data Analyst | Technical Writer | Contionus Learner
-  avatar: assets/images/Logo.png
-linkedin_username: https://www.linkedin.com/in/midhunkalavara/
-github_username: https://github.com/Midhunkalavara
+  bio: Data Analyst | Technical Writer | Lifelong Learner
+social:
+  linkedin: https://www.linkedin.com/in/midhunkalavara/
+  github: https://github.com/Midhunkalavara
