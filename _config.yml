@@ -31,7 +31,7 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor
-  - README.md
+  - index.html # Exclude index.html since README.md will be used as the homepage
   - LICENSE
 
 # Markdown options
@@ -39,3 +39,11 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+
+# Specify the README file as the homepage
+defaults:
+  - scope:
+      path: ""
+      type: "README"
+    values:
+      layout: "home"
