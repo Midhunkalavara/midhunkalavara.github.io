@@ -10,10 +10,17 @@ However, my passion for data analysis was ignited during an online data science 
 
 Continuing my quest for knowledge, I am currently enrolled in a Post Graduate Certificate Program in Data Science and Machine Learning at Manipal Institute of Technology, with an expected completion date in September 2024.
 
-# Portfolio Projects
+## Skills
+
+- **Data Analysis:** Python, MySQL, Excel, Power BI, Jupyter Notebook
+- **Technical Writing:** Markdown, XML, HTML, Adobe FrameMaker, Microsoft Word, Connect Composer, Google Workspace, Adobe InDesign, PTC Arbortext Editor, Adobe Illustrator
+- **Project Management Platforms:** Jira, Asana
+- **Soft Skills:** Communication, Problem-solving, Teamwork
+
+## Portfolio Projects
 ---
 
-## Online Retail Store: Exploratory Data Analysis with Python
+### Online Retail Store: Exploratory Data Analysis with Python
 - **Description**: This project delves into the operations of an online retail store. By analyzing actual sales data, we aim to assist the store in improving its business strategies.
 - **Tools**: Python with libraries including Pandas, NumPy, Matplotlib, and Seaborn
 - **Role**: Data Analyst
@@ -22,7 +29,7 @@ Continuing my quest for knowledge, I am currently enrolled in a Post Graduate Ce
 #### Check out the <a href="https://github.com/Midhunkalavara/Online-Retail-Store" target="_blank">GitHub repository</a> for more details.
 
 ---
-## Unveiling the Impact of Artificial Intelligence on Business Operations: A Comprehensive Exploration
+### Unveiling the Impact of Artificial Intelligence on Business Operations: A Comprehensive Exploration
 - **Description**: In the rapidly evolving landscape of contemporary business, Artificial Intelligence (AI) stands as a pivotal force driving transformation across various sectors. This whitepaper delves into the transformative power of AI components, particularly machine learning and natural language processing (NLP), in reshaping traditional operational paradigms.
 - **Role**: Technical Writer
 - **Outcome**: The whitepaper aims to guide organizations in leveraging AI for efficiency, innovation, and competitiveness. It emphasizes responsible AI adoption, cultural transformation, and the augmentation of human capabilities. Ultimately, it seeks to inspire a future where AI-driven growth fosters sustainability and prosperity, guided by ethical principles and collaborative leadership.
