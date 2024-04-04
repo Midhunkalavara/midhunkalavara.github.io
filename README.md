@@ -25,6 +25,7 @@ I'm a data analyst passionate about using data to tell compelling stories and dr
 - **Challenge**: Authored a comprehensive whitepaper exploring the transformative power of Artificial Intelligence (AI) in modern businesses, focusing on Machine Learning (ML) and Natural Language Processing (NLP).
 - **Role**: Technical Writer
 - **Impact**: This whitepaper empowers organizations to leverage AI for increased efficiency, innovation, and competitiveness. It promotes responsible AI adoption, cultural transformation, and human-AI collaboration. Ultimately, it envisions a future where AI fosters sustainable growth and prosperity, guided by ethics and collaborative leadership.
+
 #### Check out the <a href="https://github.com/Midhunkalavara/The-Impact-of-Artificial-Intelligence-on-Business-Processes" target="_blank">GitHub repository</a> for more details.
 
 ---
